@@ -1,5 +1,5 @@
 ## Hi there 👋
-Me chamo Matheus Viana e sou estudante de Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas), atualmente estou no 4º período. Busco sempre aprimorar os meus conhecimentos e adquirir novas habilidades para evoluir cada vez mais. Possuo um grande interesse na área de back-end, com a utilização da linguagem Java. 
+Me chamo Matheus Viana e sou estudante de Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas), atualmente estou no 6º período. Busco sempre aprimorar os meus conhecimentos e adquirir novas habilidades para evoluir cada vez mais. Possuo um grande interesse na área de back-end, com a utilização da linguagem Java. 
 
 ## 
  
